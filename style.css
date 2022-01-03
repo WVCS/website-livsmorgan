@@ -45,6 +45,16 @@ h1 {
   text-shadow: 2px 2px grey;
 }
 
+h3 {
+    display: black;
+  color: #4F5165;
+  text-decoration: none;
+  padding: 15px 170px;
+  font-size: 150%;
+  font-family: "Georgia"  ;
+  
+}
+
 img{
   width: 50%; 
   border: 3px solid #ddd;
